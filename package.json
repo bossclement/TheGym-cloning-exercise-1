@@ -1,0 +1,12 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "link -> https://templatemo.com/live/templatemo_589_lugx_gaming",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tailwindcss -i ./input/input.css -o ./build/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
