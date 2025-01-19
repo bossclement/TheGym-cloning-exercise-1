@@ -590,6 +590,82 @@ video {
   top: -100px;
 }
 
+.bottom-\[-50\%\] {
+  bottom: -50%;
+}
+
+.left-\[50\%\] {
+  left: 50%;
+}
+
+.bottom-\[-5\%\] {
+  bottom: -5%;
+}
+
+.bottom-\[-9\%\] {
+  bottom: -9%;
+}
+
+.bottom-\[-8\%\] {
+  bottom: -8%;
+}
+
+.right-\[50\%\] {
+  right: 50%;
+}
+
+.bottom-\[-7\%\] {
+  bottom: -7%;
+}
+
+.right-\[-50\%\] {
+  right: -50%;
+}
+
+.left-\[-50\%\] {
+  left: -50%;
+}
+
+.left-\[25\%\] {
+  left: 25%;
+}
+
+.left-\[20\%\] {
+  left: 20%;
+}
+
+.left-\[22\%\] {
+  left: 22%;
+}
+
+.bottom-\[-6\%\] {
+  bottom: -6%;
+}
+
+.left-1\/2 {
+  left: 50%;
+}
+
+.left-\[10px\] {
+  left: 10px;
+}
+
+.left-\[20px\] {
+  left: 20px;
+}
+
+.left-\[40px\] {
+  left: 40px;
+}
+
+.left-\[30px\] {
+  left: 30px;
+}
+
+.left-\[30\%\] {
+  left: 30%;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -609,6 +685,50 @@ video {
 
 .mt-20 {
   margin-top: 5rem;
+}
+
+.mb-\[14px\] {
+  margin-bottom: 14px;
+}
+
+.mb-\[5px\] {
+  margin-bottom: 5px;
+}
+
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.mb-9 {
+  margin-bottom: 2.25rem;
+}
+
+.mt-9 {
+  margin-top: 2.25rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.mt-\[5rem\] {
+  margin-top: 5rem;
+}
+
+.mt-\[4rem\] {
+  margin-top: 4rem;
+}
+
+.mt-\[6rem\] {
+  margin-top: 6rem;
+}
+
+.mt-\[9rem\] {
+  margin-top: 9rem;
 }
 
 .flex {
@@ -692,6 +812,14 @@ video {
   width: 10px;
 }
 
+.w-1\/6 {
+  width: 16.666667%;
+}
+
+.w-\[15\%\] {
+  width: 15%;
+}
+
 .flex-grow {
   flex-grow: 1;
 }
@@ -746,6 +874,10 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
+}
+
+.rounded-\[150px\] {
+  border-radius: 150px;
 }
 
 .rounded-b-\[130px\] {
@@ -873,12 +1005,41 @@ video {
   padding-right: 70px;
 }
 
+.px-\[10px\] {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.px-\[22px\] {
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.py-\[7px\] {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.py-\[100px\] {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.py-\[150px\] {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
 .pl-10 {
   padding-left: 2.5rem;
 }
 
 .pt-\[100px\] {
   padding-top: 100px;
+}
+
+.pb-\[150px\] {
+  padding-bottom: 150px;
 }
 
 .text-center {
